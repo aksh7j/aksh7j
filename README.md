@@ -1,4 +1,4 @@
-<h1 align="center">Hey , I'm Akshaj PS currently pursuing my undergrad bachelors degree</h1>
+<h1 align="center">Hey , I'm Akshaj PS </h1>
 <h3 align="center">I hold a Bachelor of Technology in Bioinformatics from Amity University with a strong focus on AI, machine learning, and data science. I combine my background in biology and programming (Java, Python, SQL) to develop innovative solutions in computational biology and health tech. As a full-stack developer and Web3 enthusiast, I’m passionate about building data-driven, tech-forward applications at the intersection of science and emerging technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aksh7j&label=Profile%20views&color=0e75b6&style=flat" alt="aksh7j" /> </p>
