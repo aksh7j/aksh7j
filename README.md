@@ -1,5 +1,5 @@
 <h1 align="center">Hey , I'm Akshaj </h1>
-<h3 align="center">I hold a Bachelor of Technology in Bioinformatics with a strong focus on AI, machine learning, and data science. I combine my background in biology and programming (Java, Python, SQL) to develop innovative solutions in computational biology and health tech. As a full-stack developer and Web3 enthusiast, I’m passionate about building data-driven, tech-forward applications at the intersection of science and emerging technologies.</h3>
+<h3 align="center">I’m an AI and Machine Learning enthusiast with a strong foundation in data science and practical experience in developing intelligent systems. With a Bachelor of Technology in Bioinformatics, I blend biological insight with technical expertise in Python, Java, and SQL to drive innovation in computational biology and health tech. My work focuses on building scalable, data-driven solutions powered by ML algorithms and deep learning models. As a full-stack developer and Web3 learner, I’m passionate about engineering smart, tech-forward applications at the cutting edge of science and emerging technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aksh7j&label=Profile%20views&color=0e75b6&style=flat" alt="aksh7j" /> </p>
 
